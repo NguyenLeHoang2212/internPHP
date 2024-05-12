@@ -365,7 +365,57 @@
             box-shadow: 10px 10px 5px #efefefaa;
         } */
 
+        .content {
+            margin-bottom: 70px;
+        }
 
+        .study-abroad {
+            display: grid;
+            gap: 50px 100px;
+            grid-template-columns: auto auto auto;
+
+        }
+
+        .box {
+            border: solid 2px #8cd9f1;
+            border-radius: 10px;
+            background: white;
+        }
+
+        .box img {
+            width: 140px;
+            height: 120px;
+            margin: auto 0;
+        }
+
+        .box .infor {
+            display: flex;
+            flex-direction: row;
+        }
+
+
+        .infor h3,.company h3,.salary h3{
+            color: #050505;
+            font-size: 19px;
+
+        }
+        .infor .company,
+        .salary,
+        .address {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .icon {
+            margin: auto 10px;
+        }
+        .product-title h3{
+            font-weight: 600;
+        }
+        .product-title {
+            display: flex;
+            justify-content: space-between;
+        }
     </style>
 
 </head>
@@ -376,10 +426,11 @@
 
       <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
     @include('client.pages.navbar')
-
+    @yield('content')
     @include('client.pages.partner')
 
-        @yield('content')
+
+    @include('client.pages.type-work')
 
     @include('client.pages.footer')
     <script src="https://cdn.jsdelivr.net/npm/swiper@11.1.1/swiper-bundle.min.js"></script>

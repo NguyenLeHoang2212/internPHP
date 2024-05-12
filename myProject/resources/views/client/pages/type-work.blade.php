@@ -1,5 +1,3 @@
-@extends('client.layout.master')
-@section('content')
 <div class="find_work">
     <p class="keywork">Từ khóa tìm việc làm phổ biến tại Việc Làm Năm Châu</p>
     <div class="find_typework">
@@ -57,5 +55,3 @@
     </div>
 
 </div>
-@endsection
-

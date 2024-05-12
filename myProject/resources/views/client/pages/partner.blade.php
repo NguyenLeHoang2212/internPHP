@@ -8,7 +8,8 @@
     border-top-right-radius:10px 10px;
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
-    padding: 20px;
+    padding: 5px;
+
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 
@@ -25,7 +26,7 @@
     border-top-right-radius:10px 10px;
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 
@@ -42,7 +43,7 @@
     border-top-right-radius:10px 10px;
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 
@@ -59,7 +60,7 @@
     border-top-right-radius:10px 10px;
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 
@@ -76,7 +77,7 @@
     border-top-right-radius:10px 10px;
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 
@@ -93,7 +94,7 @@
     border-top-right-radius:10px 10px;
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 
