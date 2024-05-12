@@ -1,6 +1,6 @@
 <div style="background:#f1fbff;padding:30px;" class="container">
     <h1 style="margin-left:20px;margin-bottom:20px;">Các đối tác</h1>
-    <swiper-container style=" width: 90%;margin : 0 auto;" class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30"
+    <swiper-container  class="mySwiper" slides-per-view="3" centered-slides="true" space-between="30"
     navigation="true">
     <swiper-slide style="text-align: center;
     background: white;
@@ -9,7 +9,6 @@
     border-bottom-right-radius:10px 10px;
     border-bottom-left-radius:10px 10px;
     padding: 5px;
-
     border: 1px solid #ededed;
     box-shadow: 10px 10px 5px #efefefaa;">
 

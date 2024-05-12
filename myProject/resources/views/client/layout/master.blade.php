@@ -371,20 +371,20 @@
 
         .study-abroad {
             display: grid;
-            gap: 50px 100px;
+            gap: 20px 20px;
             grid-template-columns: auto auto auto;
-
         }
 
         .box {
             border: solid 2px #8cd9f1;
             border-radius: 10px;
             background: white;
+            padding-left: 10px;
         }
 
         .box img {
-            width: 140px;
-            height: 120px;
+            width: 100px;
+            height: 80px;
             margin: auto 0;
         }
 
@@ -396,7 +396,7 @@
 
         .infor h3,.company h3,.salary h3{
             color: #050505;
-            font-size: 19px;
+            font-size: 15px;
 
         }
         .infor .company,
@@ -411,11 +411,14 @@
         }
         .product-title h3{
             font-weight: 600;
+            font-size: 17px;
+
         }
         .product-title {
             display: flex;
             justify-content: space-between;
         }
+
     </style>
 
 </head>
